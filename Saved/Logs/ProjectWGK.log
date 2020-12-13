@@ -663,3 +663,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.13-20.27.28:888][393]LogActorFactory: Actor Factory created Cone
 [2020.12.13-20.27.29:870][447]LogActorFactory: Actor Factory created Plane
 [2020.12.13-20.27.31:058][518]LogActorFactory: Actor Factory created Plane
+[2020.12.13-20.30.00:852][670]LogSlate: Window 'Save Level As' being destroyed
+[2020.12.13-20.30.01:169][670]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.13-20.30.01:209][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/Levels/InitMap" FILE="../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.13-20.30.01:224][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.12.13-20.30.01:253][670]LogSavePackage: Moving '../../../../Projects/ProjectWGK/Saved/InitMapD37A48E545F65F5A8F209B918BD4CB00.tmp' to '../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap.umap'
+[2020.12.13-20.30.01:290][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/Levels/InitMap_BuiltData" FILE="../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap_BuiltData.uasset" SILENT=true
+[2020.12.13-20.30.01:307][670]LogSavePackage: Moving '../../../../Projects/ProjectWGK/Saved/InitMap_BuiltData153EFF6C4364F8139D311FAB94ACB315.tmp' to '../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap_BuiltData.uasset'
+[2020.12.13-20.30.01:318][670]LogFileHelpers: Saving map 'InitMap' took 0.155
+[2020.12.13-20.30.01:323][670]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.13-20.30.01:323][670]LogContentValidation: Display: Validating World /Game/CustomContent/Levels/InitMap.InitMap
+[2020.12.13-20.30.01:323][670]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CustomContent/Levels/InitMap_BuiltData.InitMap_BuiltData
+[2020.12.13-20.30.01:330][670]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.13-20.30.15:745][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/Levels/InitMap" FILE="../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.13-20.30.15:756][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.13-20.30.15:783][526]LogSavePackage: Moving '../../../../Projects/ProjectWGK/Saved/InitMap58085EC845425F0A82459E9C3B9CB8F5.tmp' to '../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap.umap'
+[2020.12.13-20.30.15:794][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/Levels/InitMap_BuiltData" FILE="../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap_BuiltData.uasset" SILENT=true
+[2020.12.13-20.30.15:817][526]LogSavePackage: Moving '../../../../Projects/ProjectWGK/Saved/InitMap_BuiltData76607626423721FDE6FCC3A40745FD59.tmp' to '../../../../Projects/ProjectWGK/Content/CustomContent/Levels/InitMap_BuiltData.uasset'
+[2020.12.13-20.30.15:831][526]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.13-20.30.15:831][526]LogContentValidation: Display: Validating World /Game/CustomContent/Levels/InitMap.InitMap
+[2020.12.13-20.30.15:831][526]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CustomContent/Levels/InitMap_BuiltData.InitMap_BuiltData
